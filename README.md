@@ -73,7 +73,6 @@ Colocar a versão que queremos:
 
 Quando vemos a pasta tem um arquivo ``.python-version`` que é o arquivo onde a variável é definida
 
-
 ## PythonSemStreamlit
 Entrar na pasta do projeto: 
 
