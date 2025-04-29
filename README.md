@@ -45,7 +45,7 @@ Vamos instalar a mais atual para o pyenv 3.13.2, na data de 23/04/2025, e coloca
 `pyenv install 2.7.18`
 
 Criaremos 3 projetos 
-Cria uma pasta na área de trabalho: teste_pyenv
+Cria uma pasta: teste_pyenv
 dentro dela criaremos 3 projetos:
 - PythonComStreamlit
     - Aqui iremos colocar o pyhton 3.13.2
@@ -55,11 +55,8 @@ dentro dela criaremos 3 projetos:
     -  Aqui iremos utilizar o python 2.7.18
 
 iremos navegar até elas pelo terminal.  
-Se você criou na área de trabalho como falei o caminho deverá ser:
-C:\Users\{SEU USUARIO}\Desktop\teste_pyenv
-
-Para acessar a pasta então devemos fazer: 
-cd C:\Users\{SEU USUARIO}\Desktop\teste_pyenv
+Caso não saiba fazer isso, fica aqui uma cheatsheet para isso:
+[CheatSheet](https://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf)
 
 # Vamos começar!
 ## PythonComStreamlit
@@ -102,4 +99,3 @@ E Quando saímos dela...
 ![3.13.2](3.13.2.png)
 
 E pronto, temos o pyenv configurado na nossa máquina!! 
-Vamos aprender agora sobre pip?
