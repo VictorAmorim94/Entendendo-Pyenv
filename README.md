@@ -102,4 +102,4 @@ E Quando saímos dela...
 ![3.13.2](3.13.2.png)
 
 E pronto, temos o pyenv configurado na nossa máquina!! 
-Façam bom uso =D
+Vamos aprender agora sobre pip?
